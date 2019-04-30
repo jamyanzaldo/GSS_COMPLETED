@@ -109,7 +109,7 @@ fisher.test(votetab)
 $H_0$ : if someone belives in the big bang they belive in the after life.  
 $H_a$ : if someone belives in the big bang they do not belive in the afterlife.
 
-Viewing the graph and p-value one can conclude that they could not be diffrent. the P value turned out to be 0.08 and because that number is bigger than 0.05 we cannot state that they are diffrent. and because the 95 % confidence intreval numbers are 0.1410591 & 1.0968350 the number 1 is between them. therefore, we reject the null hypothosis.
+Viewing the graph and p-value one can conclude that they could not be diffrent. the P value turned out to be 0.08 and because that number is bigger than 0.05 we cannot state that they are diffrent. and because the 95 % confidence intreval numbers are 0.1410591 & 1.0968350 the number 1 is between them. therefore, we fail to reject the null hypothosis.
 
 ### Introduction Question 3
 
